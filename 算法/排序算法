@@ -1,3 +1,14 @@
 # 插入，快排，归并，堆排序
 
+Input : A[n]         Output: Sorted A[n]
+
+
+##时间复杂度比较
+
+快排           平均O(nlogn),最坏O(n^2)
+堆排序          O(nlogn)
+插入排序        O(n^2)
+归并排序        O(nlogn)  需要O(n)额外的存储空间
+
+
 
